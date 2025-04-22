@@ -195,15 +195,17 @@ body {
   line-height: 1;
   border-radius: 4px;
   color: #088178;
-  background-color: #fddde4;
+  /* background-color: #fddde4; */
+  background-color: #d1e8f2;
 }
 
 #feature .fe-box:nth-child(2) h6 {
-  background-color: #cdebbc;
+  /* background-color: #cdebbc; */
+  background-color: #f6dbf6;
 }
 
 #feature .fe-box:nth-child(3) h6 {
-  background-color: #d1e8f2;
+  background-color: #cdebbc;
 }
 
 #feature .fe-box:nth-child(4) h6 {
